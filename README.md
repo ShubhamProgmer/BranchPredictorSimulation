@@ -262,7 +262,7 @@ Used for comparing:
 
 ## Requirements
 
-- Intel PIN Tool
+- Intel PIN Tool [Intel PIN Tool Download](https://www.intel.com/content/www/us/en/developer/articles/tool/pin-a-binary-instrumentation-tool-downloads.html?utm_source=chatgpt.com)
 - g++
 - Linux Environment
 
@@ -329,8 +329,7 @@ Possible extensions:
 # Technologies Used
 
 - C++
-- Intel PIN Tool [Intel PIN Tool Download](https://www.intel.com/content/www/us/en/developer/articles/tool/pin-a-binary-instrumentation-tool-downloads.html?utm_source=chatgpt.com)
-- Dynamic Binary Instrumentation
+- Intel PIN Tool
 - Branch Prediction Algorithms
 
 ---
