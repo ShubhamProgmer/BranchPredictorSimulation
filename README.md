@@ -134,29 +134,6 @@ Implemented in:
 
 ---
 
-# Project Structure
-
-```text
-.
-├── base2bit.cpp
-├── base2bitGshare.cpp
-├── base2bitloop.cpp
-├── predictor.cpp
-├── takeNotTake.cpp
-├── merge.cpp
-├── makefile
-├── source/
-├── extras/
-├── pin/
-├── obj-intel64/
-├── branch_trace.log
-├── instruction_trace.log
-├── pc_wise_accuracy.log
-└── doc.txt
-```
-
----
-
 # Output Files
 
 ## 1. branch_trace.log
